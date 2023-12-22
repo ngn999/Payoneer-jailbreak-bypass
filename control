@@ -1,0 +1,9 @@
+Package: com.yourcompany.payoneerjailbreakbypass
+Name: Payoneer jailbreak bypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ngn999
+Author: ngn999
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
