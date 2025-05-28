@@ -4,6 +4,11 @@
 -(BOOL)isJailBroken {
     return NO;
 }
+
+-(BOOL)isDebugged {
+    return NO;
+}
+
 %end
 
 %hook TransaktProtocolHandshakeDto
