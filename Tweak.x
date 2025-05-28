@@ -5,3 +5,9 @@
     return NO;
 }
 %end
+
+%hook TransaktProtocolHandshakeDto
+-(BOOL) isJailBroken {
+    return NO;
+}
+%end
